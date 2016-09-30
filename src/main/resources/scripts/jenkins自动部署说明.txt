@@ -1,0 +1,6 @@
+1.java -jar jenkins.war
+2.输入初始密码
+3.建立用户 lizehua/lizehua
+4.jenkins 安装maven插件
+5.jenkins服务器上安装expect
+6.配置项目
